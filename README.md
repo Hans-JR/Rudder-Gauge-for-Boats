@@ -8,3 +8,4 @@ The resistor value ranges from ~5 to 180 Ohm and is measured with a 1K resistor 
 The ADC value in the scetch has to be calibrated accordingly.
 
 The original gear set is designed by https://hackaday.io/project/168592-opencpn-chart-plotter-w-autopilot-and-waypoints
+![IMG_20210506_133548](https://user-images.githubusercontent.com/37930673/117303739-554a2680-ae7d-11eb-8504-1f1abc6dc235.jpg)
